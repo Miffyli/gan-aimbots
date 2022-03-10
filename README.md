@@ -2,7 +2,7 @@ Code and data used in the "GAN-Aimbots: The Next Generation of Cheating in Multi
 
 **Note:** Code quality is best classified as "researchy", mixed with bad case of not following code styles. 
 
-For data, see [this Zenodo](https://zenodo.org/record/6345323) record.
+For data, see [this Zenodo record](https://zenodo.org/record/6345323).
 
 ## Contents and overview
 

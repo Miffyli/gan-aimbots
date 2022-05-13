@@ -1,4 +1,4 @@
-Code and data used in the "GAN-Aimbots: Using Machine Learning for Cheating in First Person Shooters"
+Code and data used in the "GAN-Aimbots: Using Machine Learning for Cheating in First Person Shooters", to be published in IEEE Transactions on Games (early access version [here](https://ieeexplore.ieee.org/document/9774028)).
 
 **Note:** Code quality is best classified as "researchy", mixed with bad case of not following code styles. 
 

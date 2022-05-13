@@ -1,4 +1,4 @@
-Code and data used in the "GAN-Aimbots: The Next Generation of Cheating in Multiplayer Video Games"
+Code and data used in the "GAN-Aimbots: Using Machine Learning for Cheating in First Person Shooters"
 
 **Note:** Code quality is best classified as "researchy", mixed with bad case of not following code styles. 
 
